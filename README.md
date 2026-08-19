@@ -1,6 +1,6 @@
 # Awesome-Critical-Event-Management
 
-## Top Critical Event Management Tools Ecosystem
+### Top Critical Event Management Tools Ecosystem
 
 **Curated List of SaaS/Hosted Platforms & Open-Source GitHub Projects**
 *Focused on Critical Event Management, Crisis Management, Emergency Notification, Incident Response & Organizational Resilience*
