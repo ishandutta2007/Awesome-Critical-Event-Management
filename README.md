@@ -30,77 +30,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-* **[Everbridge](https://www.everbridge.com/)**
-  Enterprise critical event management platform for threat intelligence, incident response, mass notification, employee safety, crisis management, and organizational resilience. Everbridge describes CEM as a system for identifying threats, understanding impact, coordinating response, communicating with affected people, and learning from incidents.
-
-* **[OnSolve](https://www.onsolve.com/)**
-  Critical event management and mass-notification platform focused on threat intelligence, emergency communications, employee safety, incident response, and organizational resilience.
-
-* **[Noggin](https://www.noggin.io/)**
-  Integrated operational resilience and critical event management platform covering incident management, business continuity, crisis management, emergency response, and organizational resilience.
-
-* **[AlertMedia](https://www.alertmedia.com/)**
-  Emergency communication and threat intelligence platform providing employee notification, risk intelligence, incident management, and safety communications.
-
-* **[Crises Control](https://www.crises-control.com/)**
-  Critical event management and mass-notification platform for crisis communications, emergency response, business continuity, and organizational resilience.
-
-* **[Veoci](https://www.veoci.com/)**
-  Cloud-based emergency management and critical-event platform supporting incident management, emergency operations centers, crisis communications, business continuity, and workflow automation.
-
-* **[BlackBerry AtHoc](https://www.blackberry.com/us/en/products/blackberry-athoc)**
-  Enterprise critical-event communications platform designed for secure mass notification, crisis communications, emergency response, and coordinated incident management.
-
-* **[Fusion Risk Management](https://www.fusionrm.com/)**
-  Operational resilience platform combining business continuity, crisis management, risk management, incident management, and resilience planning.
-
-* **[Preparis](https://www.preparis.com/)**
-  Business continuity and emergency-management platform supporting crisis communications, emergency notification, continuity planning, incident response, and preparedness.
-
-* **[Riskonnect](https://riskonnect.com/)**
-  Integrated risk management platform with capabilities spanning operational risk, business continuity, resilience, crisis management, and incident management.
-
-* **[AlertFind](https://www.alertfind.com/)**
-  Emergency communication and mass-notification platform for employee safety, incident communications, and critical-event response.
-
-* **[Singlewire InformaCast](https://www.singlewire.com/informacast)**
-  Emergency notification and mass-communication platform supporting desktop, mobile, IP speakers, digital signage, and other notification channels.
-
-* **[Omnilert](https://www.omnilert.com/)**
-  Emergency notification platform supporting mass communications, campus safety, threat detection, and multi-channel emergency alerts.
-
-* **[Rave Alert](https://www.motorolasolutions.com/)**
-  Mass-notification and emergency communication capabilities for public safety, education, government, and enterprise environments.
-
-* **[BlackBerry SecuSUITE / AtHoc ecosystem](https://www.blackberry.com/)**
-  Secure communications technologies supporting high-assurance communications and emergency-management environments.
-
-* **[Alertus](https://www.alertus.com/)**
-  Emergency mass-notification platform supporting desktop alerts, mobile notifications, digital signage, public-address systems, and other communication channels.
-
-* **[Regroup](https://www.regroup.com/)**
-  Mass-notification and emergency communication platform for organizations needing rapid multi-channel communication during critical events.
-
-* **[SnapComms](https://www.snapcomms.com/)**
-  Emergency and organizational communication platform supporting desktop alerts, pop-ups, screensavers, digital signage, and mass communications.
-
-* **[Crises Control](https://www.crises-control.com/)**
-  Multi-channel crisis communication platform designed for rapid alerting, escalation, response coordination, and continuity workflows.
-
-* **[Noggin](https://www.noggin.io/)**
-  Integrated resilience platform combining incident management, crisis management, business continuity, emergency management, and operational resilience.
-
-* **[Resolver](https://www.resolver.com/)**
-  Risk and incident management platform supporting incident reporting, risk analysis, investigations, and organizational resilience workflows.
-
-* **[ServiceNow](https://www.servicenow.com/)**
-  Enterprise workflow platform with crisis management, major incident management, emergency response, and business continuity capabilities.
-
-* **[PagerDuty](https://www.pagerduty.com/)**
-  Digital-operations incident management and on-call platform providing alerting, escalation, incident response, and automated workflows.
-
-* **[Atlassian Jira Service Management](https://www.atlassian.com/software/jira/service-management)**
-  IT and enterprise service-management platform with major incident management, on-call, alerting, escalation, and incident collaboration capabilities.
+| Platform | Description | Starting Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Everbridge](https://www.everbridge.com/)** | Enterprise critical event management platform for threat intelligence, incident response, mass notification, employee safety, crisis management, and organizational resilience. | Starts at ~$5,000/year (base Mass Notification); full enterprise CEM deployments range from $25,000 to $100,000+/year based on contact volume and modules. | No free-forever plan; provides an interactive guided trial / proof-of-concept environment upon request via sales demo. |
+| **[OnSolve](https://www.onsolve.com/)** | Critical event management and mass-notification platform (CodeRED, Send Word Now) focused on threat intelligence, emergency communications, employee safety, and incident response. | Starts at ~$2,500–$5,000/year (or ~$1.50–$3.00/contact/year for base notification tiers, scaling with population and contact volume). | No free-forever plan; 14-day to 30-day customized trial/pilot available upon request. |
+| **[Noggin](https://www.noggin.io/)** | Integrated operational resilience and critical event management platform covering incident management, business continuity, crisis management, and emergency response. | Starts at ~$5,000–$10,000/year (Starter tier; tiered subscription: Starter, Premium, Enterprise). | No free-forever plan; guided product demonstration and pilot evaluation available upon request. |
+| **[AlertMedia](https://www.alertmedia.com/)** | Emergency communication and threat intelligence platform providing employee notification, risk intelligence, incident management, and safety communications. | Starts at ~$2,500–$5,000/year (or ~$1.50/employee/month with 100+ user minimums; no setup fees). | No free-forever plan; customized live demo and guided trial environment available upon request. |
+| **[Crises Control](https://www.crises-control.com/)** | Critical event management and multi-channel mass-notification platform for crisis communications, emergency response, and business continuity. | Starts at £2.00 (~$2.50) per user/year (minimum annual contract; SMS and voice broadcast credits billed per usage). | No free-forever plan; 14-day free trial available (full access to core alerting features, no credit card required). |
+| **[Veoci](https://www.veoci.com/)** | Cloud-based emergency management and critical-event platform supporting incident management, emergency operations centers (EOC), crisis communications, and workflow automation. | Starts at ~$10,000–$15,000/year (annual subscription based on module selection and user/organization size). | No free-forever plan; no self-service trial (custom proof-of-concept and guided demo available on request). |
+| **[BlackBerry AtHoc](https://www.blackberry.com/us/en/products/blackberry-athoc)** | Enterprise critical-event communications platform designed for secure mass notification, crisis communications, emergency response, and coordinated incident management. | Starts at ~$5,000–$12,000/year (or ~$2.00–$5.00/user/year base alert licensing, varying by endpoint volume and modules). | No free-forever plan; enterprise demo and proof-of-concept environment available on request. |
+| **[Fusion Risk Management](https://www.fusionrm.com/)** | Operational resilience platform combining business continuity, crisis management, risk management, incident management, and resilience planning. | Starts at ~$25,000–$30,000/year (Salesforce AppExchange / enterprise subscription based on selected risk/BCM modules). | No free-forever plan; interactive live demo and self-guided product tour available on request. |
+| **[Preparis](https://www.preparis.com/)** | Business continuity and emergency-management platform supporting crisis communications, emergency notification, continuity planning, and incident response. | Starts at ~$3,000–$5,000/year (or ~$2.00–$4.00/user/month depending on employee headcount and messaging bundles). | No free-forever plan; free guided demo and customized trial available upon request. |
+| **[Riskonnect](https://riskonnect.com/)** | Integrated risk management platform with capabilities spanning operational risk, business continuity, resilience, crisis management, and incident management. | Starts at ~$30,000–$50,000/year (enterprise modular licensing; full-scale enterprise implementations start higher). | No free-forever plan; personalized enterprise demonstration available on request. |
+| **[AlertFind](https://www.alertfind.com/)** | Emergency communication and mass-notification platform for employee safety, incident communications, and critical-event response. | Starts at ~$5,000/year (annual subscription with options for unlimited recipient or message volume tiers). | No free-forever plan; personalized product demo and pilot setup available on request. |
+| **[Singlewire InformaCast](https://www.singlewire.com/informacast)** | Emergency notification and mass-communication platform supporting desktop, mobile, IP speakers, digital signage, and other notification channels. | Starts at ~$4.50–$10.22/user/year (or ~$375/month for base 50-endpoint bundle; editions: Mobile, Advanced, Fusion). | No free-forever plan; 30-day free trial available upon request. |
+| **[Omnilert](https://www.omnilert.com/)** | Emergency notification and AI visual gun-detection platform supporting mass communications, campus safety, threat detection, and multi-channel alerts. | Starts at ~$2,500/year (~$200/month for small facilities/schools, scaling with user/camera count). | No free-forever plan; customized live demonstration and pilot evaluation on request. |
+| **[Rave Alert](https://www.motorolasolutions.com/)** | Mass-notification and emergency communication capabilities (Motorola Solutions) for public safety, education, government, and enterprise environments. | Starts at ~$2,500–$5,000/year (annual subscription based on population/seat count; free for end-user alert recipients). | No free-forever plan; 14-day to 30-day free trial available upon request (no credit card required). |
+| **[BlackBerry SecuSUITE](https://www.blackberry.com/us/en/products/secusuite)** | High-assurance secure voice, messaging, and data communication technology for government agencies, defense, and enterprise crisis management. | Starts at ~$50–$100/user/month (~$600–$1,200/user/year, typically sold under high-security enterprise/government licensing agreements). | No free-forever plan; high-assurance security briefing and pilot evaluation available on request. |
+| **[Alertus](https://www.alertus.com/)** | Emergency mass-notification platform supporting desktop alerts, mobile notifications, digital signage, public-address systems, and alert beacons. | Starts at ~$2,470/year (base software license for small facilities; institutional packages range $10,000–$17,500+/year). | No free-forever plan; customized live demo and facility evaluation on request. |
+| **[Regroup](https://www.regroup.com/)** | Mass-notification and emergency communication platform for organizations needing rapid multi-channel communication during critical events. | Starts at ~$500/month (~$6,000/year base subscription for multi-channel messaging). | No free-forever plan; live demonstration and customized pilot available on request. |
+| **[SnapComms](https://www.snapcomms.com/)** | Emergency and organizational communication platform supporting desktop alerts, pop-ups, screensavers, digital signage, and mass communications. | Starts at ~$1.50–$2.50/user/month (Inform package, minimum 100 users / ~$2,500/year). | No free-forever plan; 30-day full-featured free trial available. |
+| **[Resolver](https://www.resolver.com/)** | Risk and incident management platform supporting incident reporting, risk analysis, investigations, and organizational resilience workflows. | Starts at $10,000/year (base package for incident and risk management). | No free-forever plan; personalized product demo on request. |
+| **[ServiceNow](https://www.servicenow.com/)** | Enterprise workflow platform with crisis management, major incident management, emergency response, and business continuity capabilities. | Starts at ~$70–$100/fulfiller/month (~$10,000–$20,000/year minimum for ITSM/Incident Management tiers). | Free Personal Developer Instance (PDI) with full developer sandbox access via developer.servicenow.com; interactive demo library. |
+| **[PagerDuty](https://www.pagerduty.com/)** | Digital-operations incident management and on-call platform providing alerting, escalation, incident response, and automated workflows. | Free tier ($0); Paid tiers start at $21/user/month (billed annually) or $25/user/month (billed monthly) for Professional plan; $41/user/month for Business plan. | Free-forever plan for up to 5 users (includes 100 SMS/phone notifications/month, 1 on-call schedule, 1 escalation policy); 14-day free trial of Business tier. |
+| **[Atlassian Jira Service Management](https://www.atlassian.com/software/jira/service-management)** | IT and enterprise service-management platform with major incident management, on-call, alerting, escalation, and incident collaboration capabilities. | Free tier ($0); Paid tiers start at $20/agent/month (billed annually) or $22.05/agent/month (billed monthly) for Standard plan; $51.42/agent/month for Premium plan. | Free-forever plan for up to 3 agents (includes 2 GB file storage, 100 email notifications/day, 500 automation runs/month); 7-day to 30-day free trial of Standard/Premium. |
 
 ## Open-Source GitHub Projects
 
@@ -393,58 +346,4 @@ Star the repo if you find it useful!
 
 **Made for emergency managers, CISOs, business-continuity teams, security teams, public-safety organizations, IT operations teams, facility managers, and resilience professionals.**
 Let's make critical event management more **open, interoperable, resilient, and developer-friendly**.
-┌──────────────────────────────┐
-                       │       Threat / Event Sources │
-                       │ Weather / Sensors / Cyber /  │
-                       │ Monitoring / Human Reports   │
-                       └──────────────┬───────────────┘
-                                      │
-                                      ▼
-                       ┌──────────────────────────────┐
-                       │       Event Ingestion        │
-                       │ Kafka / NiFi / Node-RED /    │
-                       │ REST APIs / Webhooks         │
-                       └──────────────┬───────────────┘
-                                      │
-                                      ▼
-                       ┌──────────────────────────────┐
-                       │ Detection & Risk Assessment  │
-                       │ Prometheus / Zabbix /        │
-                       │ Rules / ML / Threat Intel    │
-                       └──────────────┬───────────────┘
-                                      │
-                                      ▼
-                       ┌──────────────────────────────┐
-                       │    Incident Management       │
-                       │ Resgrid / SCRIBE /           │
-                       │ IncidentRelay / GoAlert      │
-                       └──────────────┬───────────────┘
-                                      │
-                                      ▼
-                       ┌──────────────────────────────┐
-                       │   Situational Awareness      │
-                       │ Grafana / OpenStreetMap /    │
-                       │ Sahana Eden / Custom GIS     │
-                       └──────────────┬───────────────┘
-                                      │
-                                      ▼
-                       ┌──────────────────────────────┐
-                       │   Decision & Coordination    │
-                       │ EOC / Crisis Teams /         │
-                       │ Dispatch / Workflows         │
-                       └──────────────┬───────────────┘
-                                      │
-                                      ▼
-                       ┌──────────────────────────────┐
-                       │    Mass Notification         │
-                       │ OpenEWS / ntfy / Gotify /    │
-                       │ Apprise / SMS / Voice /     │
-                       │ Email / Push / Cell Broadcast│
-                       └──────────────┬───────────────┘
-                                      │
-                                      ▼
-                       ┌──────────────────────────────┐
-                       │ Response / Recovery / Audit  │
-                       │ Incident Log / Timeline /    │
-                       │ Reports / Lessons Learned    │
-                       └──────────────────────────────┘
+
